@@ -14,7 +14,7 @@ I’ve built over 100 small and medium web projects — including e-commerce sit
 ### 🧩 Projects
 - ✅ [Quiz App](https://github.com/nnoonnnn/porquiz) – React + TypeScript
 - ✅ [To-Do List App](https://github.com/nnoonnnn/react-todo-localstorage) – React + LocalStorage
-- ✅ [E-Commerce UI](https://github.com/nnoonnnn/eshop-react) – React + Routing + Cart
+- ✅ [E-Commerce UI](https://github.com/nnoonnnn/eshop-react) – React + Routing
 
 (Live demos linked inside each repo.)
 
