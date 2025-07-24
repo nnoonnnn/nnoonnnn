@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Nouar
 
-<!--
-**nnoonnnn/nnoonnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught frontend developer with strong skills in **HTML, CSS, JavaScript, and React**.  
+I’ve built over 100 small and medium web projects — including e-commerce sites, quiz apps, and to-do lists — using modern tools like **Vite**, **React Hooks**, and **Redux**.
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+- HTML5, CSS3, Flexbox, Grid, Responsive Design
+- JavaScript (ES6+), DOM, Fetch API, Async/Await
+- React (Hooks, useState, useEffect, useReducer, useContext)
+- Redux Toolkit, React Router
+- TypeScript (basic)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 Projects
+- ✅ [Quiz App](https://github.com/nnoonnnn/porquiz) – React + TypeScript
+- ✅ [To-Do List App](https://github.com/nnoonnnn/...) – React + LocalStorage
+- ✅ [E-Commerce UI](https://github.com/nnoonnnn/...) – React + Routing + Cart
+
+(Live demos linked inside each repo.)
+
+### 🌍 Open to Work
+I'm looking for a **remote or NYC-based** frontend developer position (junior or mid-level).
+
+📬 **Email**: nouarchami@example.com  
+🌐 **Portfolio**: [Your live site or Netlify link]  
+📌 **Location**: U.S. Citizen, based in NYC
+
+Let’s build something great together!
+
