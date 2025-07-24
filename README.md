@@ -10,11 +10,11 @@ I’ve built over 100 small and medium web projects — including e-commerce sit
 - Redux Toolkit, React Router
 - TypeScript (basic)
 - Git & GitHub
-
+- 
 ### 🧩 Projects
 - ✅ [Quiz App](https://github.com/nnoonnnn/porquiz) – React + TypeScript
-- ✅ [To-Do List App](https://github.com/nnoonnnn/...) – React + LocalStorage
-- ✅ [E-Commerce UI](https://github.com/nnoonnnn/...) – React + Routing + Cart
+- ✅ [To-Do List App](https://github.com/nnoonnnn/react-todo-localstorage) – React + LocalStorage
+- ✅ [E-Commerce UI](https://github.com/nnoonnnn/eshop-react) – React + Routing + Cart
 
 (Live demos linked inside each repo.)
 
