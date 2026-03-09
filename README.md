@@ -1,81 +1,95 @@
-# 👋 Hi, I'm **Nouar Chami** — Frontend React Developer
+# 👋 Hi, I'm Nouar Chami — Frontend React Developer
 
-Self-taught **Frontend React Developer** passionate about building modern web applications and contributing to **open-source projects**.  
+Self-taught Frontend Developer focused on building modern, scalable web applications with **React, TypeScript, and Next.js**, and contributing to **open-source projects**.
 
+---
 
+# 🚀 Open Source Contributions
 
-## 🚀 Open Source Contributions
-
-- **17 Pull Requests created**  
-- **8 Pull Requests merged**  
+**Pull Requests**
+- 17 Pull Requests created
+- 8 Pull Requests merged
 
 ### Contributions to Major Projects
 
-- **Intuit Devtools Design System**  
-  - Fix import path for callback in [`Console.stories.tsx`](https://github.com/intuit/devtools-ds/pull/34)
+**Intuit Devtools Design System**
+- Fix import path for callback in `Console.stories.tsx`
 
-- **Semantic UI React**  
-  - Update default button labels in Confirm modal [`#4526`](https://github.com/Semantic-Org/Semantic-UI-React/pull/4526)
+**Semantic UI React**
+- Update default button labels in Confirm modal #4526
 
-- **Fork Commit Merge**  
-  - Implemented `sum()` utility function [`#3992`](https://github.com/fork-commit-merge/fork-commit-merge/pull/3992)  
-  - Built a reusable **React Card Component** [`#3993`](https://github.com/fork-commit-merge/fork-commit-merge/pull/3993)
+**Fork Commit Merge**
+- Implemented `sum()` utility function #3992
+- Built a reusable React Card Component #3993
 
-- **First Contributions**  
-  - Added contributor entry [`#101357`](https://github.com/firstcontributions/first-contributions/pull/101357)
+**First Contributions**
+- Added contributor entry #101357
 
+---
 
-## 🛠️ Skills
+# 🛠️ Skills
 
-**Frontend**  
+## Frontend
 🖌️ HTML5, CSS3, Flexbox, Grid  
 ⚛️ React (Hooks, useState, useEffect, useReducer, useContext)  
-💻 JavaScript (ES6+), DOM, Fetch API, Async/Await  
+💻 JavaScript (ES6+)  
+📦 TypeScript  
+🌐 Next.js (fundamentals)  
 
-**State Management**  
+## State Management
 🗂️ Redux Toolkit  
 🗂️ Context API  
 🗂️ Zustand  
 
-**Tools & Testing**  
+## Testing
+🧪 Jest  
+🧪 Cypress  
+
+## Tools
 🛠️ Git & GitHub  
 🛠️ Vite  
 🛠️ React Router  
-🛠️ TypeScript (basic)  
-🛠️ Testing (Jest / Cypress)
+🛠️ REST APIs / Fetch / Async-Await  
 
+---
 
+# 📊 GitHub Stats
 
-## 📊 GitHub Stats & Skills
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nnoonnnn&show_icons=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nnoonnnn&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nnoonnnn&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nnoonnnn&layout=compact)
 
-![Skills](https://skillicons.dev/icons?i=react,js,ts,redux,git,github,cypress) <!-- Optional: replace/add icons -->
+---
 
+# 🧩 Projects
 
+**Quiz App**  
+React + TypeScript
 
-## 🧩 Projects
+**To-Do List App**  
+React + LocalStorage
 
-- **[Quiz App](https://github.com/nnoonnnn/quiz-app)** – React + TypeScript  
-- **[To-Do List App](https://github.com/nnoonnnn/todo-app)** – React + LocalStorage  
-- **[E-Commerce UI](https://github.com/nnoonnnn/ecomm1)** – React + Routing + Cart  
+**E-Commerce UI**  
+React + Routing + Cart
 
-(Live demos linked inside each repository.)
+*(Live demos available inside each repository.)*
 
+---
 
+# 🌍 Open to Work
 
-## 🌍 Open to Work
+💼 **Position:** Junior Frontend / React Developer  
+🌎 **Location:** Remote or New York City  
 
-💼 **Position:** Junior Frontend / React Developer – Remote or NYC  
+---
 
-📬 Email: [chaminouar37@gmail.com](mailto:chaminouar37@gmail.com)  
-🌐 Portfolio: [https://github.com/nnoonnnn](https://github.com/nnoonnnn)  
-📌 Location: U.S. Citizen  
+# 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-NouarChami-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/nouarchami)  
-[![Email](https://img.shields.io/badge/Email-chaminouar37@gmail.com-red?style=flat-square&logo=gmail)](mailto:chaminouar37@gmail.com)
+📧 Email: chaminouar37@gmail.com  
+🌐 GitHub: https://github.com/nnoonnnn  
+🔗 LinkedIn: https://www.linkedin.com/in/nouar-chami-b1b3711a8
 
+---
 
 ⭐ Always learning, building, and improving as a developer.
 
