@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nouar Chami — Frontend React Developer
 
-Self-taught Frontend Developer focused on building modern, scalable web applications with **React, TypeScript, and Next.js**, and contributing to **open-source projects**.
+Self-taught Frontend Developer passionate about building scalable, high-performance web applications with **React, TypeScript, and modern frontend architecture**, while actively contributing to **open-source projects**.
 
 ---
 
@@ -19,7 +19,7 @@ Self-taught Frontend Developer focused on building modern, scalable web applicat
 - Update default button labels in Confirm modal #4526
 
 **Fork Commit Merge**
-- Implemented `sum()` utility function #3992
+- Implemented `sum()` utility function #3992  
 - Built a reusable React Card Component #3993
 
 **First Contributions**
@@ -27,29 +27,69 @@ Self-taught Frontend Developer focused on building modern, scalable web applicat
 
 ---
 
-# 🛠️ Skills
+# 🛠️ Technical Skills
 
-## Frontend
-🖌️ HTML5, CSS3, Flexbox, Grid  
-⚛️ React (Hooks, useState, useEffect, useReducer, useContext)  
-💻 JavaScript (ES6+)  
-📦 TypeScript  
-🌐 Next.js (fundamentals)  
+## Frontend Development
+- HTML5
+- CSS3
+- Flexbox
+- Grid
+- Responsive Design
+
+## JavaScript Ecosystem
+- JavaScript (ES6+)
+- TypeScript
+- DOM APIs
+- Async / Await
+- Fetch API
+
+## React Development
+- React Hooks  
+  - useState  
+  - useEffect  
+  - useReducer  
+  - useContext  
+  - useLayoutEffect  
+  - useId  
+
+- Advanced React Patterns  
+  - Higher Order Components (HOC)  
+  - Compound Components  
+  - Error Boundaries  
+  - Custom Hooks  
+  - Component Composition  
 
 ## State Management
-🗂️ Redux Toolkit  
-🗂️ Context API  
-🗂️ Zustand  
+- Redux Toolkit
+- Context API
+- Zustand
+
+## React Ecosystem
+- React Router
+- Next.js (Fundamentals)
+
+## Performance Optimization
+- Lazy Loading
+- Code Splitting
+- Memoization
+- React.memo
+- useMemo
+- useCallback
+- Avoiding unnecessary re-renders
 
 ## Testing
-🧪 Jest  
-🧪 Cypress  
+- Jest
+- Cypress
 
-## Tools
-🛠️ Git & GitHub  
-🛠️ Vite  
-🛠️ React Router  
-🛠️ REST APIs / Fetch / Async-Await  
+## Tools & Workflow
+- Git
+- GitHub
+- Vite
+- NPM / Package management
+
+## Additional Programming
+- Java
+- Python
 
 ---
 
@@ -63,14 +103,14 @@ Self-taught Frontend Developer focused on building modern, scalable web applicat
 
 # 🧩 Projects
 
-**Quiz App**  
+### Quiz App
 React + TypeScript
 
-**To-Do List App**  
+### To-Do List App
 React + LocalStorage
 
-**E-Commerce UI**  
-React + Routing + Cart
+### E-Commerce UI
+React + Routing + Cart System
 
 *(Live demos available inside each repository.)*
 
@@ -78,8 +118,8 @@ React + Routing + Cart
 
 # 🌍 Open to Work
 
-💼 **Position:** Junior Frontend / React Developer  
-🌎 **Location:** Remote or New York City  
+💼 Position: **Frontend / React Developer**  
+🌎 Remote or New York City
 
 ---
 
